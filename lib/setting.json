@@ -1,0 +1,12 @@
+{
+ "limitcount": 300,
+ "pointcounts": 1000,
+ "memberlimit": 5,
+ "grouplimit": 25,
+ "unlimited" : false,
+ "mtc":false,
+ "restartstate": false,
+ "restartId": "undefined",
+ "banChats": false,
+ "rest": false
+}
